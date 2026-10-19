@@ -9,8 +9,8 @@
 
 ## 📸 Project Preview
 
-<!-- Upload your dashboard screenshot to images/dashboard.png -->
-![Dashboard Preview](images/dashboard.png)
+<img width="1315" height="460" alt="image" src="https://github.com/user-attachments/assets/14f50fd6-c962-4654-9fa2-d3b7f32822ae" />
+
 
 ## 📁 Project Structure
 
@@ -29,8 +29,6 @@ Keep the screenshot folder beside this README:
         charts.png
         vba_form.png
 
-<!-- Optional: upload your folder structure screenshot to images/project_structure.png -->
-![Project Structure](images/project_structure.png)
 
 ## 🎯 Project Objectives
 
@@ -63,8 +61,6 @@ Keep the screenshot folder beside this README:
 | Inconsistent date presentation | Standardize dates for analysis |
 | High return rate | Compare delivery times between returned and completed orders |
 
-<!-- Upload your before-and-after cleaning screenshot to images/cleaning_comparison.png -->
-![Data Cleaning Comparison](images/cleaning_comparison.png)
 
 ## ⚙️ Feature Engineering
 
@@ -80,8 +76,6 @@ Seven columns were added in the preprocessing stage:
 | `Sales Revenue` | Order revenue | Unit Price × Quantity |
 | `Net profit` | Profit per order | Sales Revenue − Total costs |
 
-<!-- Upload your engineered-columns screenshot to images/preprocessed_sheet.png -->
-![Preprocessed Data](images/preprocessed_sheet.png)
 
 ## 📊 Key Business Insights
 
@@ -123,8 +117,6 @@ Seven columns were added in the preprocessing stage:
 
 ## 📊 Pivot Tables & Analysis
 
-<!-- Upload your pivot tables screenshot to images/pivot_tables.png -->
-![Pivot Tables](images/pivot_tables.png)
 
 Analysis covered:
 
@@ -138,20 +130,16 @@ Analysis covered:
 
 ### Interactive Dashboard
 
-<!-- Upload your full dashboard screenshot to images/dashboard_full.png -->
-![Full Dashboard](images/dashboard_full.png)
+<img width="1320" height="465" alt="image" src="https://github.com/user-attachments/assets/9f814118-8b9c-46bf-a2eb-b62f4b281a02" />
 
-### Supporting Charts
 
-<!-- Upload your charts screenshot to images/charts.png -->
-![Sales Analysis Charts](images/charts.png)
 
 ## 🤖 VBA Data Entry Form
 
 A custom **Excel UserForm** was created to support structured data entry and enforce validation, reducing the risk of future data quality issues.
 
-<!-- Upload your VBA UserForm screenshot to images/vba_form.png -->
-![VBA Data Entry Form](images/vba_form.png)
+<img width="957" height="345" alt="image" src="https://github.com/user-attachments/assets/4a5b847d-c530-4598-a635-6316845f4439" />
+
 
 ## 🛠️ Tools & Technologies
 
@@ -173,11 +161,11 @@ A custom **Excel UserForm** was created to support structured data entry and enf
 
 ## 👤 Author
 
-**[Your Name]**
+**Mohamed Abdelnasser Hassan**
 
-- **Email:** [Your email address]
-- **LinkedIn:** [Your LinkedIn profile URL]
-- **GitHub:** [Your GitHub profile URL]
+- **Email:** mohamedabdelnassera8@gmail.com
+- **LinkedIn:** www.linkedin.com/in/mohamed-abdelnasser-684276303
+- **GitHub:** https://github.com/moahmedabdelnasser
 
 ## 📄 Usage
 
