@@ -19,11 +19,13 @@ The dashboard brings together five core metrics: **Sales, Boxes, Shipments, Cost
 
 ### Dashboard Preview
 
-![Sales dashboard with salesperson performance](image%20%288%29.png)
+<img width="878" height="494" alt="image" src="https://github.com/user-attachments/assets/d1dc49d7-28c8-47b0-a9d7-4fb48087ef76" />
+
 
 ### Interactive Tooltip and Product View
 
-![Product performance view with geography tooltip](image%20%282%29%20%283%29.png)
+<img width="872" height="490" alt="image" src="https://github.com/user-attachments/assets/3a60cca6-8eca-4c58-adc6-d5bbf4370b28" />
+
 
 ### Visual Breakdown
 
