@@ -6,7 +6,8 @@ An end-to-end regression project for predicting hourly bike rental demand, combi
 
 **Final validation RMSE: 65.01 · Improvement over Zero Rule: 72.2%**
 
-![Bike rental prediction web application](assets/web-app.png)
+<img width="1152" height="2688" alt="web app perview" src="https://github.com/user-attachments/assets/d794c918-de83-4b76-9c37-cb3a319e64b1" />
+
 
 > Image setup: add your actual screenshots and exported plots to `assets/` using the filenames referenced below. Images are not bundled with this README.
 
@@ -132,25 +133,29 @@ The non-zero residual mean indicates remaining bias worth investigating. The fin
 
 ### Learning Curve
 
-![Final model learning curve](assets/learning-curve.png)
+<img width="1189" height="588" alt="fig8_learning_curve" src="https://github.com/user-attachments/assets/27f688e6-6f3c-492f-92da-6853f35087cc" />
+
 
 The learning curve supports inspection of training and validation performance as training-set size changes. It helps assess the generalization gap and whether more data or different model complexity may be useful.
 
 ### Actual vs. Predicted
 
-![Actual versus predicted hourly rentals](assets/actual-vs-predicted.png)
+<img width="2147" height="1181" alt="fig1_to_6_eda" src="https://github.com/user-attachments/assets/42af26cc-0e84-421c-ae23-7753d6d22c00" />
+
 
 This plot complements aggregate metrics by showing how predictions compare with observations across demand levels.
 
 ### Residual Analysis
 
-![Residual distribution and diagnostic plots](assets/residual-analysis.png)
+<img width="2149" height="596" alt="fig9_residual_analysis" src="https://github.com/user-attachments/assets/0ed27597-73c8-4adc-a250-111ab7d5164f" />
+
 
 Residual diagnostics were used to examine error direction, error distribution, changes in error magnitude, and patterns that a single summary metric can hide.
 
 ### Feature Importance
 
-![Final model feature importance](assets/feature-importance.png)
+<img width="1187" height="708" alt="fig7_feature_importance" src="https://github.com/user-attachments/assets/b3fe9c86-0e67-43b7-810f-8cd508ac210f" />
+
 
 Feature importance supports inspection of the signals used by the model. It does not establish causality and can be affected by correlated predictors.
 
