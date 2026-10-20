@@ -138,7 +138,7 @@ The non-zero residual mean indicates remaining bias worth investigating. The fin
 
 The learning curve supports inspection of training and validation performance as training-set size changes. It helps assess the generalization gap and whether more data or different model complexity may be useful.
 
-### Actual vs. Predicted
+### EDA Plots
 
 <img width="2147" height="1181" alt="fig1_to_6_eda" src="https://github.com/user-attachments/assets/42af26cc-0e84-421c-ae23-7753d6d22c00" />
 
